@@ -1,0 +1,10 @@
+body{
+    display: block;
+    text-align: center; 
+}
+
+#labelRoll{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
